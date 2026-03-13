@@ -1,6 +1,0 @@
-streamlit
-pillow
-numpy
-scikit-learn
-pandas
-xlsxwriter
