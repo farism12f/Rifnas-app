@@ -4,3 +4,5 @@ numpy
 scikit-learn
 pandas
 xlsxwriter
+rembg
+onnxruntime
